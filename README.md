@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhanupratap7248
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning flutter 
 
 <!---
 Bhanupratap7248/Bhanupratap7248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
